@@ -14,7 +14,7 @@ pipeline {
         stage('Checkout PHP Code') {
             steps {
                 echo "Pulling code from GitHub..."
-                git 'https://github.com/yourusername/yourrepo.git'
+                git 'https://github.com/kairamumasatyasubhash/new-task.git'
             }
         }
 
