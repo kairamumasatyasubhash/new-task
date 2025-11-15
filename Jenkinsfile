@@ -5,7 +5,7 @@ pipeline {
     PROJECT_ID = "mitochondria-476610"
     REGION     = "us-central1"
     REPO       = "demo-task"
-    IMAGE_NAME = "subhash-app"
+    IMAGE_NAME = "subhash-app-new"
     TAG        = "latest"
   }
 
