@@ -4,7 +4,7 @@ pipeline {
     environment {
         PROJECT_ID = "mitochondria-476610"
         REGION     = "us-central1"
-        REPO       = "subhash-repo"
+        REPO       = "demo-task"
         IMAGE_NAME = "subhash-app"
         TAG        = "latest"
     }
