@@ -5,8 +5,8 @@ pipeline {
     PROJECT_ID = "mitochondria-476610"
     REGION     = "us-central1"
     REPO       = "demo-task"
-    IMAGE_NAME = "subhash-app-new"
-    TAG        = "latest"
+    IMAGE_NAME = "subhash"
+    TAG        = "v1"
   }
 
   stages {
