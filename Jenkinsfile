@@ -4,7 +4,7 @@ pipeline {
   environment {
     PROJECT_ID = "mitochondria-476610"
     REGION     = "us-central1"
-    REPO       = "demo-task"
+    REPO       = "my-php-repo"
     IMAGE_NAME = "subhash"
     TAG        = "v1"
   }
