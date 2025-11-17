@@ -84,7 +84,7 @@ resource "google_compute_instance_template" "php_template" {
 spec:
   containers:
   - name: php-app
-    image: "us-central1-docker.pkg.dev/${var.project_id}/php-app-repo/php-app:latest"
+    image: "us-central1-docker.pkg.dev/${var.project_id}/my-php-repo/subhash:v1"
     ports:
       - containerPort: 80
         hostPort: 80
