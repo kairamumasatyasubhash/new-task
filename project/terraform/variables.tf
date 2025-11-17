@@ -1,6 +1,6 @@
 variable "project_id" {
   type        = string
-  default     = "kubernetes-477004"
+  default     = "mitochondria-476610"
 }
 
 variable "region" {
@@ -15,6 +15,6 @@ variable "zone" {
 
 variable "docker_image" {
   type        = string
-  default     = "us-central1-docker.pkg.dev/raghu2pm/php-app-repo/php-app:latest"
+  default     = "us-central1-docker.pkg.dev/mitochondria-476610/my-php-repo/subhash:v1"
 }
 
