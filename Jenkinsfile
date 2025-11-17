@@ -5,7 +5,7 @@ pipeline {
     PROJECT_ID = "mitochondria-476610"
     REGION     = "us-central1"
     REPO       = "my-php-repo"
-    IMAGE_NAME = "subhash"
+    IMAGE_NAME = "satya"
     TAG        = "v1"
   }
 
